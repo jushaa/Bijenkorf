@@ -13,7 +13,7 @@ Instructions for the bijenkorfAssignment by Justin Ferron
 - Build the gradle
 - Run project
 
-**Outside scope**
+**Wanted TODO but Outside of scope**
 
 - More info in the description
 - Loading screens while retrieving data
