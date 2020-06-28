@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BijenKorf</string>
+    <string name="search_text_hint">zoeken....</string>
+    <string name="search_button">Zoek</string>
+    <string name="buy_button">Kopen</string>
+    <string name="description">Description</string>
+
+</resources>
